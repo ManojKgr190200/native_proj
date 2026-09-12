@@ -24,7 +24,7 @@ DerivedData
 
 .env
 .env.local
-.env.development
+.env.dev
 .env.staging
 .env.production
 
